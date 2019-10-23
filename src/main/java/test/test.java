@@ -12,8 +12,7 @@ public class test {
 		String fc = "c";
 		System.out.println();
 		String dc = "b";
-		String aaaaaaaaaaaaa="bbbb";
-		String bc = "d";
+
 			
 	}
 }
