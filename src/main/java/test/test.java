@@ -8,5 +8,6 @@ public class test {
 		String cc = "c";
 		String dd = "c";
 		String ff = "c";
+		String ac = "c";
 	}
 }
