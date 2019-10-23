@@ -13,6 +13,7 @@ public class test {
 		System.out.println();
 		String dc = "b";
 		String aaaaaaaaaaaaa="bbbb";
+		String bc = "d";
 			
 	}
 }
