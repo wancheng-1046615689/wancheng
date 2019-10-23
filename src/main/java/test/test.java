@@ -11,5 +11,7 @@ public class test {
 		String ac = "c";
 		String fc = "c";
 		System.out.println();
+		String dc = "b";
+			
 	}
 }
