@@ -9,5 +9,6 @@ public class test {
 		String dd = "c";
 		String ff = "c";
 		String ac = "c";
+		String fc = "c";
 	}
 }
