@@ -10,5 +10,7 @@ public class test {
 		String ff = "c";
 		String ac = "c";
 		String fc = "c";
+		String dc = "b";
+			
 	}
 }
