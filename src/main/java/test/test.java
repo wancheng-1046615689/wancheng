@@ -7,5 +7,6 @@ public class test {
 		String bb = "B";
 		String cc = "c";
 		String dd = "c";
+		String ff = "c";
 	}
 }
