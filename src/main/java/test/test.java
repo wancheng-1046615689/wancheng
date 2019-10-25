@@ -13,6 +13,7 @@ public class test {
 		String fc = "c";
 		System.out.println();
 		String dc = "b";
+		String ads = "b";
 
 	}
 }
