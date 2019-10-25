@@ -14,6 +14,7 @@ public class test {
 		System.out.println();
 		String dc = "b";
 		String ads = "b";
+		String sdf = "c";
 
 	}
 }
