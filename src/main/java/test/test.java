@@ -15,6 +15,7 @@ public class test {
 		String dc = "b";
 		String ads = "b";
 		String sdf = "c";
+		String ss ="b";
 
 	}
 }
